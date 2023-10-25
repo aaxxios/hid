@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Hiddify.Bot": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54187;http://localhost:54188"
+    }
+  }
+}
